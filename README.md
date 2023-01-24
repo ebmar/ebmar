@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ebmar / eb
-- 👀 I’m interested in Programming video-games one day
-- 🌱 I’m currently learning C and C++, majoring in IT
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning C, C++, and Python -- majoring in IT
 - 💞️ I’m looking to collaborate on [TBA]
 - 📫 You can reach me on [TBA]
 
